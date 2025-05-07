@@ -27,10 +27,11 @@ The goal is to uncover patterns, trends, and insights through data analysis and 
 To analyze stock trends, daily returns, volatility, and comparative performance of selected Indian companies to develop a foundational understanding of financial data.
 
 ## 3. Key Questions (ASK Phase)
-- How have the selected companies performed over the years?
-- Which company shows the highest volatility?
-- Are there any patterns or seasonality in price movements?
-- How can indicators like moving averages help identify trends?
+1. Which company among HAL, Reliance, HDFC, and TCS delivered the most consistent returns from 2000 to 2021, based on annualized return and standard deviation?
+2. How did each company’s 30-day moving average behave during major market stress periods (e.g., 2008 crisis, 2016 demonetization, 2020 COVID crash)?
+3. What was the maximum drawdown for each stock between 2000 and 2021, and how long did it take to recover?
+4. How does the average monthly return and volatility of each company compare, and what does this imply about risk-reward trade-offs?
+5. Which company offered the best risk-adjusted return (Sharpe Ratio) over the two decades?
 
 ## 4. Tools & Technologies
 - Language: Python
